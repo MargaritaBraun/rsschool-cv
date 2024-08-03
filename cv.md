@@ -9,7 +9,9 @@
 +    **[My Instagram profile](https://www.instagram.com/rita_braun/?hl=ru)**
 
 * ### About me:
-***I am studying at the Belarusian State University of Culture and Arts by correspondence. My specialization is "Computer technology in Art". I like to combine computer technology and art, so now I am studying at RS School and taking a course in JS\Frontend development. The preparatory stage is a new and interesting experience for me.***
+***Когда я училась в Белорусском государственном университете культуры и искусств (специальность - "Компьютерные технологии в искусстве"). Мне нравится совмещать компьютерные технологии и искусство, поэтому я закончила курсы RS School и  курс по разработке JS\Frontend.
+Я научилась верстать макеты сайтов с помощью html и scss. Также добавлять функционал с помощью JavaScript и использовала Webpack.
+Финальное задание мы с моей командой разработывали на базе eCommerse. Задание состояло из 4 спринтов. Во время выполнения мы делили поравну задачи на всех, вели учет выполненных задач. Я разрабатывала самостоятельно страницы нашего SPA-приложения. Данные продуктов мы получали с помощью API и отрисовывали их в приложении. Так же я презентовала наш итоговый продукт для оценки работы моей команды. В итоге это оценили и я получила сертификат о завыершении курса.***
 
 < ***Learning to do, doing to learn.***
 
